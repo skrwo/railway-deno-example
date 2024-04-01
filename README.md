@@ -1,6 +1,6 @@
 # Deno Example
 
-This example is a small [Deno](https://deno.land/) webserver
+This example is a small [Deno](https://deno.com/) webserver
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/LsaSsU)
 
@@ -11,8 +11,8 @@ This example is a small [Deno](https://deno.land/) webserver
 
 ## 💁‍♀️ How to use
 
-- [Install Deno](https://deno.land/)
-- Run server `deno --allow-net --allow-env src/index.ts`
+- [Install Deno](https://deno.com/)
+- Run server `deno run --allow-net --allow-env src/index.ts`
 
 ## 📝 Notes
 
